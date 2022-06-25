@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Irize91
-- 👀 I’m interested in ...facts
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...your truth 
+- 🌱 I’m currently learning ...cancel culture
+- 💞️ I’m looking to collaborate on ...designs
+- 📫 How to reach me ...irise@irise.autos
 
 <!---
 Irize91/Irize91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
